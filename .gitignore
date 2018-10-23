@@ -1,3 +1,4 @@
+/darknet
 *.o
 *.dSYM
 *.csv
